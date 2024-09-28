@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-movie-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot to fetch movie information.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "venom-bot": "^4.0.0"
+  }
+}
